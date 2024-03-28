@@ -10,9 +10,6 @@ This is an official page of the [ECIR2024](https://www.ecir2024.org/)'s tutorial
 
 ![](school_logo.svg)
 
-# [Download Slides](https://github.com/asash/transformers-for-recsys-tutorial/blob/main/Transformers%20for%20Large%20Scale%20Reommender%20Systems%20-%20ECIR%20Tutorial.pdf)
-
-
 ### Citing the Tutorial. 
 
 If you use information from this tutorial in your work, please cite us:
@@ -26,3 +23,4 @@ If you use information from this tutorial in your work, please cite us:
   pages="369--374",
 }
 ```
+# [Download Slides](https://github.com/asash/transformers-for-recsys-tutorial/blob/main/Transformers%20for%20Large%20Scale%20Recommender%20Systems%20-%20ECIR%20Tutorial.pdf)
