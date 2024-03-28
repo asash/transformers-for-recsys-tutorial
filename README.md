@@ -1,6 +1,5 @@
 # Effective and Efficient Transformer Models for Sequential Recommendation
-
-The tutorial presented at [ECIR2024](https://www.ecir2024.org/) Conference
+This is an official page of the [ECIR2024](https://www.ecir2024.org/)'s tutorial **Effective and Efficient Transformer Models for Sequential Recommendation**
 
 
 ![](ecir2024-logo.svg)
