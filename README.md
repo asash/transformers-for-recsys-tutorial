@@ -16,7 +16,7 @@ The tutorial presented at [ECIR2024](https://www.ecir2024.org/) Conference
 
 ### Citing the Tutorial. 
 
-If you use information from this tutorial in your work, please cite the work:
+If you use information from this tutorial in your work, please cite us:
 
 ```
 @InProceedings{petrov2024transformers,
