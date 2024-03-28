@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ECIR 2024 Tutorial - Transformers for Sequential Recommendation</title>
+<style>
+  body { font-family: Arial, sans-serif; }
+  .header { display: flex; align-items: center; justify-content: space-between; }
+  .title-container { flex-grow: 1; text-align: center; }
+  .authors { margin: 20px 0; }
+  .main-content { overflow: auto; padding: 20px; }
+  .footer { text-align: center; margin-top: 20px; }
+  img { max-width: 100%; height: auto; }
+  .download-link {text-align: center}
+  .university-logo, .conference-logo { width: auto; }
+</style>
+</head>
+<body>
+
+<div class="header">
+  <img class="university-logo" src="school_logo.svg" alt="University of Glasgow Logo">
+  <div class="title-container">
+    <h1>Transformers for Sequential Recommendation</h1>
+    <div class="authors">
+      <p>Aleksandr "Sasha" Petrov and Craig Macdonald</p>
+      <p>University of Glasgow</p>
+    </div>
+  </div>
+  <img class="conference-logo" src="ecir2024-logo.svg" alt="ECIR 2024 Logo">
+
+</div>
+<div class="main-content">
+    In this half-day tutorial, we draw parallels between language representation and sequential recommendation and show how large-scale sequential recommendation can be effectively addressed using the Transformer architecture. We start by describing the Transformer architecture and classical Transformer-based recommendation models, including SASRec and BERT4Rec. We then discuss the training objectives for training a Transformer-based recommender system, particularly showing how introducing recency during training helps the Transformer to learn quickly. Next, we consider large item catalogues, addressing first the interplay between loss functions and negative sampling for large numbers of items and, finally, how we may break item representations down into “sub-items” to allow efficient representation of large item catalogues by the Transformer model. We then describe the modern Generative approach to recommender systems and discuss how it can be used for complex recommendation goals. Finally, we discuss the role of transformer-based large language models in the future of recommender systems, describe current early advancements in the field, and discuss our vision of the future of recommender systems.  The tutorial is based on classic papers in the domains of language modelling and sequential recommender systems, as well as our line of work on scaling transformers to large catalogues. Our target audience is both academic researchers and industry practitioners.
+</div>
+<div class="main-content">
+    <h1 class="download-link"><a href="Transformers for Large Scale Reommender Systems - ECIR Tutorial.pdf">Download Slides</a></h1>
+</div>
+<div class="footer">
+    <p><a href="http://ecir2024.org/"> 46th European Conference on Information Retrieval</a></p>
+    <p>Glasgow, Scotland</p>
+  </div>
+
+
+
+
+</body>
+</html>
