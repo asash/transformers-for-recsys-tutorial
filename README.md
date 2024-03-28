@@ -23,6 +23,7 @@ If you use information from this tutorial in your work, please cite us:
   author="Petrov, Aleksandr V.
   and Macdonald, Craig",
   title="Transformers for Sequential Recommendation",
+  booktitle="Proceedings of the 46th European Conference on Information Retrieval"
   pages="369--374",
 }
 ```
